@@ -1,8 +1,15 @@
-# CarRacingGame
-Created By gyoungOe
-Create and Learn CarRacingGame using HTML, CSS, and JavaScript
-please help and support so that I can be even more enthusiastic about uploading other interesting projects for free by following my social media
-Instagram https://www.instagram.com/wyesptr._/
+# Car Racing Game
+**Created By gyoungOe**
 
-please provide your comments and reviews about this project via email wahyuofficial922@gmail.com
-That is all and thank you
+**Create Using:**
+- HTML
+- CSS
+- JavaScript
+
+Create and Learn Car Racing Game. Please help and support so that I can be even more enthusiastic about uploading other interesting projects for free by following
+[My Social Media](https://www.instagram.com/wyesptr._).
+That is all and thank you.
+
+
+### Zombie Game Review
+![preview1](previewzombiegame1.png)
